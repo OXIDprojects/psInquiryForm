@@ -16,6 +16,7 @@ Installation
 
 	1. copy content from copy_this folder into your shop root
 	2. activate module psInquiryForm in shop admin
+	3. done, open: http://yourshop.com/?cl=psinquiryform_view
 
 	
 Changelog
