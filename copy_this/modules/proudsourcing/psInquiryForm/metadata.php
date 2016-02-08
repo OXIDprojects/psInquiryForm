@@ -24,7 +24,7 @@ $aModule = array(
     'title'        => 'psInquiryForm',
     'description'  => array(
         'de' => 'Anfrageformular mit eigenen Felder (analog Kontaktformular).',
-        'en' => 'Inquiry form with individual fields (analogical contact form).'
+        'en' => 'Inquiry form with individual fields (similar to contact form).'
     ),
     'thumbnail'    => 'logo.jpg',
     'version'      => '1.0.0',
