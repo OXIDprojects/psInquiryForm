@@ -45,3 +45,8 @@ Copyright
 	Proud Sourcing GmbH 2016
 	www.proudcommerce.com
 	www.proudsourcing.de
+	
+	
+Screenshot
+
+![psInquiryForm](https://raw.github.com/proudcommerce/psInquiryForm/master/psinquiryform_screenshot.png)
