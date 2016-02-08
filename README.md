@@ -1,7 +1,7 @@
 psInquiryForm
 ============
 
-Inquiry form with individual fields (analogical contact form).
+Inquiry form with individual fields (similar to contact form).
 Free Module for OXID eShop.
 
 
