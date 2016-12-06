@@ -2,7 +2,7 @@ psInquiryForm
 ============
 
 Inquiry form with individual fields (similar to contact form).
-Free Module for OXID eShop.
+Free module for OXID eshop 4.7, 4.8, 4.9 and 4.10.
 
 
 Features
@@ -17,6 +17,11 @@ Installation
 	1. copy content from copy_this folder into your shop root
 	2. activate module psInquiryForm in shop admin
 	3. done, open: http://yourshop.com/?cl=psinquiryform_view
+
+
+Screenshot
+
+![psInquiryForm](https://raw.github.com/proudcommerce/psInquiryForm/master/psinquiryform_screenshot.png)
 
 	
 Changelog
@@ -43,10 +48,4 @@ License
 Copyright
 
 	Proud Sourcing GmbH 2016
-	www.proudcommerce.com
-	www.proudsourcing.de
-	
-	
-Screenshot
-
-![psInquiryForm](https://raw.github.com/proudcommerce/psInquiryForm/master/psinquiryform_screenshot.png)
+	www.proudcommerce.com / www.proudsourcing.de

@@ -26,7 +26,7 @@ $aModule = array(
         'de' => 'Anfrageformular mit eigenen Felder (analog Kontaktformular).',
         'en' => 'Inquiry form with individual fields (similar to contact form).'
     ),
-    'thumbnail'    => 'logo.jpg',
+    'thumbnail'    => 'logo_pc-os.jpg',
     'version'      => '1.0.0',
     'author'       => 'Proud Sourcing GmbH',
     'url'          => 'http://www.proudcommerce.com/',
