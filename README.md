@@ -4,13 +4,11 @@ psInquiryForm
 Inquiry form with individual fields (similar to contact form).
 Free module for OXID eshop 4.7, 4.8, 4.9 and 4.10.
 
-
 Features
 
 	- admin setting for receiver email address
 	- admin setting for inquiry subject
 	- individual fields in inquiry template
-
 
 Installation
 
@@ -18,16 +16,14 @@ Installation
 	2. activate module psInquiryForm in shop admin
 	3. done, open: http://yourshop.com/?cl=psinquiryform_view
 
+Tip: Use the [OXID module connector](https://github.com/OXIDprojects/OXID-Module-Connector) to install this module.
 
 Screenshot
-
 ![psInquiryForm](https://raw.github.com/proudcommerce/psInquiryForm/master/psinquiryform_screenshot.png)
-
 	
 Changelog
 
-	07.02.2016	1.0.0	module release
-
+	2016-02-07	1.0.0	module release
 
 License
 
@@ -44,7 +40,6 @@ License
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
     
-
 Copyright
 
 	Proud Sourcing GmbH 2016
